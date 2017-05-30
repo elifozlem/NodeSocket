@@ -1,0 +1,15 @@
+{
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "version": "0.2.6",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "4.9.6",
+    "socket.io": "1.0.6",
+    "ws": "^2.3.1",
+     "jsonwebtoken":"7.4.1"
+  }
+}
